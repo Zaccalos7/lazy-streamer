@@ -1,6 +1,11 @@
 # lazy-streamer
 A comprehensive solution for streaming on Twitch and YouTube
 
+# Download app
+**Click Tags > Select a version > Assets and Download**
+
+📥 [**Download the App**](https://github.com/Zaccalos7/lazy-streamer/releases)
+
 # 🎬 Stream Automator
 
 ✨ *Your intelligent system for autonomous streaming on Twitch and YouTube*
