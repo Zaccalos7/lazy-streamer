@@ -1,39 +1,39 @@
 # lazy-streamer
-a way to stream on twitch or YouTube
+A comprehensive solution for streaming on Twitch and YouTube
 
 # 🎬 Stream Automator
 
-✨ *Il tuo sistema intelligente per lo streaming autonomo su Twitch e YouTube*
+✨ *Your intelligent system for autonomous streaming on Twitch and YouTube*
 
 ---
 
 ## 🔗 Channel Configuration
 
-🎯 Collega i tuoi canali in modo sicuro e veloce
+🎯 Connect your channels securely and efficiently
 
-Vai su **Channel Settings** per inserire:
+Navigate to **Channel Settings** to configure:
 
-- 🔐 Credenziali Twitch  
-- 🔐 Credenziali YouTube  
-- 🔑 Token di autenticazione  
+- 🔐 Twitch Credentials  
+- 🔐 YouTube Credentials  
+- 🔑 Authentication Tokens  
 
-🚀 Una volta configurato, potrai trasmettere direttamente sui tuoi canali in totale sicurezza.
+🚀 Once configured, you can broadcast directly to your channels with complete security.
 
-💡 Supporto multi-stream: puoi trasmettere più video contemporaneamente su più canali.
+💡 Multi-stream Support: Broadcast multiple videos simultaneously across multiple channels.
 
 ---
 
 ## 🎥 Video Settings
 
-🎛️ Controllo totale su qualità e formato video
+🎛️ Complete control over video quality and formatting
 
-Nel menu **Video Settings** puoi:
+Within the **Video Settings** menu, you can:
 
-- 🎬 Importare configurazioni video  
-- ⚙️ Personalizzare risoluzione e bitrate  
-- 🎨 Ottimizzare formato e qualità dello stream  
+- 🎬 Import video configurations  
+- ⚙️ Customize resolution and bitrate  
+- 🎨 Optimize stream format and quality  
 
-📦 Tutto è modulare, semplice e pronto all’uso.
+📦 The entire architecture is modular, user-friendly, and production-ready.
 
 ---
 
@@ -41,34 +41,34 @@ Nel menu **Video Settings** puoi:
 
 ### 🟢 Live Management
 
-Monitora tutto in tempo reale:
+Monitor your broadcast in real time:
 
-- 📊 Stato della diretta  
-- 📺 Performance dello streaming  
-- ⚡ Controllo immediato delle sessioni attive  
+- 📊 Live broadcast status  
+- 📺 Streaming performance metrics  
+- ⚡ Immediate control over active sessions  
 
 ---
 
 ### 🛠️ Troubleshooting
 
-Hai un problema? Nessun problema 😄
+Encountering an issue? Resolution is simple.
 
-Usa la funzione:
+Utilize the following function:
 
 🔄 **Unlock Video**
 
-👉 Serve a:
+👉 Purpose:
 
-- Resettare lo stato dello stream  
-- Risolvere blocchi o errori di connessione  
-- Ripristinare la trasmissione rapidamente  
+- Reset the stream status  
+- Resolve connectivity freezes or errors  
+- Rapidly restore the broadcast  
 
 ---
 
-## 🚀 Pronto a trasmettere
+## 🚀 Ready to Broadcast
 
-Con **Stream Automator** puoi gestire i tuoi contenuti in modo:
+With **Stream Automator**, you can manage your content seamlessly:
 
 - ⚡ Scalable  
-- 🎯 Fluido  
-- 🤖 Completamente automatizzato  
+- 🎯 Fluid  
+- 🤖 Fully Automated
